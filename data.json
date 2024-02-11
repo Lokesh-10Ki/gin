@@ -1,0 +1,82 @@
+[
+  {
+    "projectType": "BAU Activity",
+    "projectName": "",
+    "task": "",
+    "comment": "",
+    "hours": {
+      "mon": 1,
+      "tue": 2,
+      "wed": 0,
+      "thu": 0,
+      "fri": 0,
+      "sat": 0,
+      "sun": 1
+    },
+    "total": 4
+  },
+  {
+    "projectType": "BAU Activity",
+    "projectName": "",
+    "task": "",
+    "comment": "",
+    "hours": {
+      "mon": 1,
+      "tue": 2,
+      "wed": 0,
+      "thu": 0,
+      "fri": 0,
+      "sat": 0,
+      "sun": 1
+    },
+    "total": 4
+  },
+  {
+    "projectType": "Sales Activity",
+    "projectName": "",
+    "task": "",
+    "comment": "",
+    "hours": {
+      "mon": 2,
+      "tue": 2,
+      "wed": 0,
+      "thu": 0,
+      "fri": 0,
+      "sat": 0,
+      "sun": 2
+    },
+    "total": 6
+  },
+  {
+    "projectType": "Sales Activity",
+    "projectName": "",
+    "task": "",
+    "comment": "",
+    "hours": {
+      "mon": 2,
+      "tue": 2,
+      "wed": 0,
+      "thu": 0,
+      "fri": 0,
+      "sat": 0,
+      "sun": 2
+    },
+    "total": 6
+  },
+  {
+    "Project Type": "Total Hours",
+    "total": {
+      "overall": 20,
+      "mon": 6,
+      "tue": 8,
+      "wed": 0,
+      "thu": 0,
+      "fri": 0,
+      "sat": 0,
+      "sun": 6
+    }
+  },
+  {
+    "startDate": "2024-02-16T12:03:43.606Z"
+  }
+]
